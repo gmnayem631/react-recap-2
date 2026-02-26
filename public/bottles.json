@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "brand": "HydroPeak",
+    "capacity": "750ml",
+    "material": "Stainless Steel",
+    "color": "Blue",
+    "price": 18.99,
+    "weight": "320g",
+    "lifespan": "5 years",
+    "can_it_hold_hot_or_cold_water": "Hot & Cold",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 2,
+    "brand": "EcoFlow",
+    "capacity": "600ml",
+    "material": "BPA-free Plastic",
+    "color": "Green",
+    "price": 9.99,
+    "weight": "150g",
+    "lifespan": "2 years",
+    "can_it_hold_hot_or_cold_water": "Cold Only",
+    "image": "https://images.unsplash.com/photo-1589363460779-cd717d2ed8fa"
+  },
+  {
+    "id": 3,
+    "brand": "ThermoGuard",
+    "capacity": "1L",
+    "material": "Insulated Stainless Steel",
+    "color": "Black",
+    "price": 24.5,
+    "weight": "500g",
+    "lifespan": "7 years",
+    "can_it_hold_hot_or_cold_water": "Hot & Cold",
+    "image": "https://images.unsplash.com/photo-1590080877777-95f37b4f2c5e"
+  },
+  {
+    "id": 4,
+    "brand": "PureSip",
+    "capacity": "500ml",
+    "material": "Glass",
+    "color": "Transparent",
+    "price": 14.25,
+    "weight": "400g",
+    "lifespan": "3 years",
+    "can_it_hold_hot_or_cold_water": "Cold Only",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2"
+  },
+  {
+    "id": 5,
+    "brand": "Arctic Chill",
+    "capacity": "900ml",
+    "material": "Aluminum",
+    "color": "Silver",
+    "price": 19.75,
+    "weight": "280g",
+    "lifespan": "4 years",
+    "can_it_hold_hot_or_cold_water": "Cold Only",
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504"
+  },
+  {
+    "id": 6,
+    "brand": "HeatWave",
+    "capacity": "700ml",
+    "material": "Double-wall Stainless Steel",
+    "color": "Red",
+    "price": 21.0,
+    "weight": "350g",
+    "lifespan": "6 years",
+    "can_it_hold_hot_or_cold_water": "Hot & Cold",
+    "image": "https://images.unsplash.com/photo-1610824352934-c10d87b700cc"
+  },
+  {
+    "id": 7,
+    "brand": "NatureSip",
+    "capacity": "650ml",
+    "material": "Tritan Plastic",
+    "color": "Purple",
+    "price": 11.5,
+    "weight": "170g",
+    "lifespan": "3 years",
+    "can_it_hold_hot_or_cold_water": "Cold Only",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 8,
+    "brand": "UrbanHydro",
+    "capacity": "800ml",
+    "material": "Stainless Steel",
+    "color": "White",
+    "price": 20.99,
+    "weight": "330g",
+    "lifespan": "5 years",
+    "can_it_hold_hot_or_cold_water": "Hot & Cold",
+    "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883"
+  },
+  {
+    "id": 9,
+    "brand": "TrailMate",
+    "capacity": "1.2L",
+    "material": "Insulated Steel",
+    "color": "Orange",
+    "price": 27.3,
+    "weight": "520g",
+    "lifespan": "8 years",
+    "can_it_hold_hot_or_cold_water": "Hot & Cold",
+    "image": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71"
+  },
+  {
+    "id": 10,
+    "brand": "CrystalFlow",
+    "capacity": "550ml",
+    "material": "Borosilicate Glass",
+    "color": "Teal",
+    "price": 16.8,
+    "weight": "410g",
+    "lifespan": "4 years",
+    "can_it_hold_hot_or_cold_water": "Hot & Cold",
+    "image": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04"
+  }
+]
